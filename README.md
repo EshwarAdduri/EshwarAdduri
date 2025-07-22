@@ -114,10 +114,6 @@ Created a full-stack application that aggregates company news, performs sentimen
 ![Eshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EshwarAdduri&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EshwarAdduri&layout=compact&theme=radical)
 
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EshwarAdduri&theme=radical&hide_border=false)
-
 ### 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EshwarAdduri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -150,7 +146,7 @@ Created a full-stack application that aggregates company news, performs sentimen
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=EshwarAdduri&icon=0&color=0)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=EshwarAdduri&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
