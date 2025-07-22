@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Adduri Eshwar
+# Hi there 👋 I'm Eshwar Adduri
 
 ### 🚀 Data Scientist Associate | LLM Specialist | Computer Vision Expert | AI Innovator
 
