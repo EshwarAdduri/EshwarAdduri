@@ -1,11 +1,13 @@
 # Hi there 👋 I'm Eshwar Adduri
 
-### 🚀 Data Scientist Associate | LLM Specialist | Computer Vision Expert | AI Innovator
+### 🚀 Data Scientist | LLM Specialist | Computer Vision Expert | AI Innovator
 
-- 🔭 I'm currently working on **LLMs, Generative AI, Computer Vision**, and **Advanced Web Scraping** at Blackcoffer
+- 🔭 I recently completed my role as **Data Scientist Associate** at Blackcoffer, specializing in **LLMs, Generative AI, Computer Vision**, and **Advanced Web Scraping**
+- 🎯 Currently seeking new opportunities in **Data Science, AI Research, and MLOps**
 - 🌱 I'm exploring cutting-edge **Agentic AI systems**, **3D Body Estimation**, and **Cross-Camera Player Tracking**
-- 💡 I specialize in **Python, Deep Learning, NLP, Vector Databases**, and **Production-Ready APIs**
+- 💡 I specialize in **Python, LLMs, Deep Learning, NLP, Vector Databases**, and **Production-Ready APIs**
 - 🎯 Recent projects: **Reddit User Persona Generator**, **Player Re-Identification System**, **News Summarization with TTS**
+- 🚀 **Available for new opportunities** in Data Science and AI roles starting immediately
 - 🤝 I'm open to collaborations in **Data Science, AI Research, and MLOps**
 - 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/eshwaradduri)
 - 📫 How to reach me: **addurieshwar6@gmail.com**
@@ -61,11 +63,49 @@
 
 ---
 
-### 🎯 Featured Projects
+## 🚀 Featured Projects
 
-🧠 **Reddit User Persona Generator** - AI-powered behavioral analysis using PRAW & LLMs  
-🏃‍♂️ **Cross-Camera Player Re-ID** - Computer vision system with YOLOv8 & ByteTrack  
-📰 **News Summarization & TTS** - Multi-format insights with Hindi audio generation
+### 🧠 Reddit User Persona Generator (2025)
+Built a comprehensive Python pipeline that scrapes and analyzes Reddit user activity to generate detailed behavioral personas using LLMs and advanced NLP techniques.
+
+**Tech Stack:** Python, PRAW (Reddit API), Ollama, Local LLM, NLP
+- 🔍 **Data Collection**: Automated scraping of posts and comments
+- 🤖 **AI Analysis**: Local LLM integration for personality inference
+- 📊 **Insights**: Activity metrics with inline content citations
+
+### 🏃‍♂️ Cross-Camera Player Re-Identification (2025)
+Developed an advanced computer vision system for consistent player tracking across multiple sports video angles using deep learning.
+
+**Tech Stack:** YOLOv8, ByteTrack, OSNet, OpenCV, Deep Learning
+- 🎯 **Detection**: YOLOv8 for player/ball detection
+- 📹 **Tracking**: ByteTrack for robust cross-frame tracking
+- 🔍 **Re-ID**: OSNet for appearance-based feature extraction
+- 🎨 **Visualization**: Consistent player IDs across video feeds
+
+### 📰 News Summarization & TTS Web App (2025)
+Created a full-stack application that aggregates company news, performs sentiment analysis, and generates Hindi audio summaries.
+
+**Tech Stack:** Streamlit, FastAPI, NLP, TTS, Sentiment Analysis
+- 📊 **Analysis**: Multi-article sentiment comparison
+- 🔊 **Audio**: Hindi text-to-speech generation
+- 🌐 **Deployment**: Cloud-ready architecture
+- 📈 **Insights**: Comparative sentiment dashboards
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Data Scientist Associate | Blackcoffer (Aug 2024 - May 2025)
+**Key Achievements:**
+- 🕷️ **Advanced Web Scraping**: Built solution for 32+ legal portals achieving **90% reduction** in processing time
+- 👁️ **Computer Vision System**: Designed face/object detection system with **98% accuracy** using Qdrant Vector DB
+- 🚀 **Production APIs**: Engineered FastAPI services for 3D body estimation with GPU optimization
+- 📊 **Business Analytics**: Delivered customer segmentation and financial forecasting for restaurant chains
+
+### 🎓 Data Science Intern | upGrad (Jan 2024 - May 2024)
+- 🩺 **Medical AI**: Accelerated disease detection using DenseNet121 deep learning models
+- 📈 **Model Optimization**: Applied data augmentation for improved diagnostic accuracy
+- 🚀 **Deployment**: Successfully deployed and validated application prototypes
 
 ---
 
@@ -102,8 +142,17 @@
 
 ---
 
+## 💡 Current Focus
+
+🔬 **Exploring:** Agentic AI Systems, Multi-Modal LLMs, Advanced Computer Vision  
+🎯 **Seeking:** Data Scientist roles in AI-first companies  
+🤝 **Open to:** Remote work, consulting, and collaborative research projects  
+
+---
+
 ![Visitor Count](https://visitcount.itsvg.in/api?id=EshwarAdduri&icon=0&color=0)
 
 ---
 
-_💡 "Transforming complex data into intelligent solutions, one algorithm at a time!"_
+_🚀 Passionate about transforming data into actionable insights through cutting-edge AI and machine learning technologies!_
+
